@@ -5,6 +5,9 @@ This repository contains the code and analysis for a project focused on disease 
 
 The aim of this project is to analyze disease prevalence in the United States between 2019 and 2020 across different groups and measures. The project involves identifying patterns and trends in the data, building predictive models using Random Forest and Deep Neural Networking techniques, and exploring the factors that contribute to disease prevalence. The insights and predictions from this analysis can aid in decision-making processes related to public health interventions, resource allocation, and policy development.
 
+# Code
+https://github.com/Abhiashu10/Advancing-Healthcare-PyTorch-DeepLearningModel-AutoML/blob/83da50fcd990fa356dff371ddaa4614fca2cf2ac/Healthcare-Disease_Analysis.ipynb
+
 
 # Data Preprocessing 
 To prepare the data for further analysis and modeling, data manipulation and feature engineering techniques are applied. This involves:
