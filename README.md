@@ -1,2 +1,30 @@
-# Advancing Healthcare with AI-PyTorch based Deep Learning Model and AutoML
-This repository contains code of analysis for disease prevalence in the United States. The project utilizes two separate datasets: one containing estimates of chronic illness for various age groups, states, population, and health categories, and the other containing variables such as states, race, ten-year age groups, and population percentages.
+# Advancing Healthcare with AI-PyTorch-based Deep Learning Model and AutoML
+This repository contains the code and analysis for a project focused on disease prevalence in the United States. The project utilizes two separate datasets: one containing estimates of chronic illness for various age groups, states, populations, and health categories, and the other containing variables such as states, race, ten-year age groups, and population percentages.
+
+# Introduction
+
+The aim of this project is to analyze disease prevalence in the United States between 2019 and 2020 across different groups and measures. The project involves identifying patterns and trends in the data, building predictive models using Random Forest and Deep Neural Networking techniques, and exploring the factors that contribute to disease prevalence. The insights and predictions from this analysis can aid in decision-making processes related to public health interventions, resource allocation, and policy development.
+
+
+# Data Preprocessing 
+To prepare the data for further analysis and modeling, data manipulation and feature engineering techniques are applied. This involves:
+
+Merging the two datasets based on the state category.
+Dropping unnecessary columns and renaming columns for better clarity.
+Melting and pivoting the data to transform it from wide format to long format.
+Converting categorical variables into dummy variables for modeling purposes.
+Splitting the geolocation column into longitude and latitude columns for mapping purposes.
+Predictive Analysis
+
+The predictive analysis phase focuses on building models to predict disease prevalence. The models used in this project include Random Forest and Deep Neural Network models. The steps involved in predictive analysis are:
+
+# Data Modelling
+1.) Analyzing the feature importance of the Random Forest models.
+2.) Implementing AutoML to select the best model option.
+3.) Building Deep Neural Network models with various architectures and training them using the dataset.
+4.) Evaluating the performance of the trained models using metrics such as Mean Squared Error and R-squared.
+5.) Comparing the predicted values with the actual values and visualizing the results.
+
+# Conclusion
+
+The project provides valuable insights into disease prevalence in the United States and develops predictive models to estimate disease prevalence based on various factors. The analysis and models can support decision-making processes related to public health interventions, resource allocation, and policy development. It is important to note that further research, data refinement, and model optimization may be necessary to improve the accuracy and generalizability of the predictive models in real-world scenarios.
