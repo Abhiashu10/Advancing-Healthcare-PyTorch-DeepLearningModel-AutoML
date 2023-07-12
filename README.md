@@ -1,0 +1,2 @@
+# Advancing-Healthcare-with-AI---PyTorch-based-Deep-Learning-Model-AutoML
+This repository contains code of analysis for disease prevalence in the United States. The project utilizes two separate datasets: one containing estimates of chronic illness for various age groups, states, population, and health categories, and the other containing variables such as states, race, ten-year age groups, and population percentages.
