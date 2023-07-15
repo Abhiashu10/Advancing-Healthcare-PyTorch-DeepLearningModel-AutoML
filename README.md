@@ -5,10 +5,12 @@ This repository contains the code and analysis for a project focused on disease 
 
 The aim of this project is to analyze disease prevalence in the United States between 2019 and 2020 across different groups and measures. The project involves identifying patterns and trends in the data, building predictive models using Random Forest and Deep Neural Networking techniques, and exploring the factors that contribute to disease prevalence. The insights and predictions from this analysis can aid in decision-making processes related to public health interventions, resource allocation, and policy development.
 
-# Data Sources: -
-1.) https://wonder.cdc.gov/controller/datarequest/D176
+## 🔗 Links
+[Code](https://github.com/Abhiashu10/Advancing-Healthcare-PyTorch-DeepLearningModel-AutoML/blob/83da50fcd990fa356dff371ddaa4614fca2cf2ac/Healthcare-Disease_Analysis.ipynb)
 
-2.) https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb
+## 🔗 Links
+[Dataset Source 1](https://wonder.cdc.gov/controller/datarequest/D176)
+[Dataset Source 2](https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
 
 1. **First Dataset:**
 - This dataset appears to contain information related to various health measures or indicators across different states and between 2019-2020.
@@ -16,9 +18,6 @@ The aim of this project is to analyze disease prevalence in the United States be
 - This dataset seems to provide information about population demographics, specifically focusing on age groups and racial categories within different states.
    
 The project is built on two separate datasets: the first contains various estimates, chronic illness for various age groups, states, population, and health categories, whilst the second contains variables such as states, race, ten-year age groups, and population within percentage. Both datasets contain different types of information, with the first dataset focusing on health measures and the second dataset focusing on population demographics. They can potentially be used for analyzing health trends, studying population characteristics, or conducting research related to health and demographics.
-
-## 🔗 Links
-[Code](https://github.com/Abhiashu10/Advancing-Healthcare-PyTorch-DeepLearningModel-AutoML/blob/83da50fcd990fa356dff371ddaa4614fca2cf2ac/Healthcare-Disease_Analysis.ipynb)
 
 # Data Preprocessing 
 To prepare the data for further analysis and modeling, data manipulation and feature engineering techniques are applied. This involves:
