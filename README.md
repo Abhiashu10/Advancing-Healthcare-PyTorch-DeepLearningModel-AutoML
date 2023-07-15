@@ -8,7 +8,14 @@ The aim of this project is to analyze disease prevalence in the United States be
 # Data Sources: -
 1.) https://wonder.cdc.gov/controller/datarequest/D176
 
-2.) https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb 
+2.) https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb
+
+1. **First Dataset:**
+  - This dataset appears to contain information related to various health measures or indicators across different states and between 2019-2020.
+2. **Second Dataset:**
+   - This dataset seems to provide information about population demographics, specifically focusing on age groups and racial categories within different states.
+   
+Both datasets contain different types of information, with the first dataset focusing on health measures and the second dataset focusing on population demographics. They can potentially be used for analyzing health trends, studying population characteristics, or conducting research related to health and demographics.
 
 ## 🔗 Links
 [Code](https://github.com/Abhiashu10/Advancing-Healthcare-PyTorch-DeepLearningModel-AutoML/blob/83da50fcd990fa356dff371ddaa4614fca2cf2ac/Healthcare-Disease_Analysis.ipynb)
